@@ -1,0 +1,46 @@
+.ex-3{
+    width: 500px;     
+}
+
+.ex-3__form{
+    border: 1px solid black; 
+    border-radius: 5px; 
+    padding: 0 20px; 
+}
+
+.ex-3__enteredLink{
+    width: 100%; 
+    display: flex; 
+    justify-content: center;
+    margin-bottom: 20px; 
+}
+
+.ex-3__enteredLink > input{
+    width: 220px;
+    padding: 8px 5px; 
+ }
+
+.ex-3__enteredLink > label{
+   margin-right: 10px ;
+}
+
+.ex-3__enteredLink > button{
+    margin-left: 4px; 
+    background-color: rgb(45, 140, 255);
+    color: white; 
+}
+
+.ex-3__choossingLink{
+    width: 100%; 
+    display: flex; 
+    justify-content: center;
+}
+
+.ex-3__choossingLink > button {
+    margin-left: 5px; 
+    padding: 5px; 
+    outline: none; 
+    outline: none; 
+    background-color: darkgray;
+    border-radius: 5px;
+}
